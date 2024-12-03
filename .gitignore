@@ -30,12 +30,8 @@ ipch
 JSON/
 
 ## Commonly used CMake directories
-<<<<<<< HEAD
-build*/
-=======
 /build*/
 /out
->>>>>>> 84b4873d5 (change .gitignore)
 
 ## Xcode artifacts
 project.xcworkspace
